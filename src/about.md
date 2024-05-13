@@ -4,6 +4,7 @@ sidebar: false
 title: 'About'
 ---
 
+![](./assets/images/nadira.JPG)
 
 Short Bio
 ---------
