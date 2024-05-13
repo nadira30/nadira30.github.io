@@ -1,0 +1,34 @@
+{
+  "name": "nadira-blog",
+  "version": "0.0.1",
+  "type": "module",
+  "devDependencies": {
+    "@jcamp/vitepress-blog-theme": "github:nadira30/vitepressblog",
+    "vitepress": "1.0.0-alpha.74",
+    "vue": "^3.2.47"
+  },
+  "scripts": {
+    "dev": "vitepress dev src",
+    "build": "vitepress build src",
+    "preview": "vitepress preview src"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ],
+      "allowedVersions": {
+        "typescript": "5"
+      }
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "tailwindcss": {},
+      "autoprefixer": {}
+    }
+  },
+  "dependencies": {
+    "markdown-it-mathjax3": "^4.3.2"
+  }
+}
