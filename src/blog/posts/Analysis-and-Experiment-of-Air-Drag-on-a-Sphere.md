@@ -1,5 +1,5 @@
 ---
-date: 2022-10-7
+date: 2022-10-07
 title: 'Analysis and Experiment of Air Drag on a Sphere'
 category: Physics
 tags:

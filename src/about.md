@@ -29,4 +29,4 @@ My hobbies are part of me and keep me grounded, active, and motivated. I am an o
 Let's Connect
 -------------
 
-Feel free to follow me on social media; [@Nadira_Mahamane](https://twitter.com/Nadira_mahamane) on Twitter & [@Nadira Mahamane](www.linkedin.com/in/nadira-m) on LinkedIn.
+Feel free to follow me on social media; [@Nadira_Mahamane](https://twitter.com/Nadira_mahamane) on Twitter & [@Nadira Mahamane](https://www.linkedin.com/in/nadira-m/) on LinkedIn.
