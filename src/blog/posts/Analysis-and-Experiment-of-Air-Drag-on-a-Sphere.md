@@ -7,6 +7,8 @@ tags:
   - Physics
 ---
 
-### Presented at the 2022 Physics Congress (Physcon)
 
-![](../../assets/articles/Analysis-and-Experiment-of-Air-Drag-on-a-Sphere/physcon_poster.png)
+<a href="../../assets/articles/Analysis-and-Experiment-of-Air-Drag-on-a-Sphere/physcon_poster.png">
+  <img src="../../assets/articles/Analysis-and-Experiment-of-Air-Drag-on-a-Sphere/physcon_poster.png">
+</a>
+### Presented at the 2022 Physics Congress (Physcon)

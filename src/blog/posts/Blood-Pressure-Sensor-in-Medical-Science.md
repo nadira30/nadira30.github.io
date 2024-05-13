@@ -9,13 +9,16 @@ tags:
   - Amplifier 
 ---
 
-![](../../assets/articles/Blood-Pressure-Sensor-in-Medical-Science/1.jpg)
-
+<center>
+  <img src="../../assets/articles/Blood-Pressure-Sensor-in-Medical-Science/1.jpg"
+  width= "300"
+  height = "300" />
+</center>
 
 ## Abstract
 In microelectronics, we studied operational amplifier and made numerous applications.  For one of the class exam, we were asked to work with a pressure sensor and come up with an application of our choice using operational amplifier. The circuit in this application are based on knowledge on voltage divider and operational amplifier.
 
----
+
 ## Introduction
 Blood pressure monitor are used in medicine to measure the blood pressure in an artery. Most blood monitor use an absolute pressure sensor (Honeywell’’26 PC SMT pressure sensor is an example and illustrated by image 5). The monitor contains a pressure sensor for sensing arterial wall vibration which is the force of blood on artery. 
 ![](../../assets/articles/Blood-Pressure-Sensor-in-Medical-Science/2.png)

@@ -4,7 +4,11 @@ sidebar: false
 title: 'About'
 ---
 
-![](./assets/images/nadira.JPG)
+<figure align="left">
+  <img src="./assets/images/nadira.JPG"
+  width= "200"
+  height = "200" />
+</figure>
 
 Short Bio
 ---------

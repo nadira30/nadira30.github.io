@@ -10,7 +10,7 @@ tags:
   - Control
   - Perception
   - Artificial Intelligence
-  - Autonomy.
+  - Autonomy
 ---
 
 ## Goal: 
