@@ -1,5 +1,5 @@
 ---
-date: 2022-12-22
+date: 2021-12-22
 title: 'Blood Pressure Sensor in Medical Science'
 category: Electronics
 tags:
