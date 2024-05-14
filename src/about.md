@@ -28,8 +28,16 @@ Previously I have been:
 * President of the Society of Physics student at UCA
 * President of the National Society of Collegiate Student at UCA
 
-My hobbies are part of me and keep me grounded, active, and motivated. I am an outdoor person therefore love to hike, run to connect with mother nature. I used to play Basket ball and still pratice when I get time or connects with people who plays. My nomadic self also enjoy a great vacation where I get to discover new culture, discover the rich cuisine and understand human kind. 
+My hobbies are part of me and keep me grounded, active, and motivated. I am an outdoor person therefore love to hike, run to connect with mother nature. I used to play Basket ball and still pratice when I get time or connects with basketball enthousiasts. My nomadic self always enjoy a great vacation where I get to discover new culture, discover the rich cuisine and understand human kind. 
 
+
+Technical Skills
+-----------------
+- Programming Languages: Python, Java, C++, 
+- ML/MD Framework: Pytorch, Keras
+- Robotics: ROS2, RVIZ, Gazebo
+- Data Analysis: Pandas, Scikit-learn, OpenCV, Numpy, Matplotlib
+- Microcontrollers: Raspberry Pi, Arduino
 
 Let's Connect
 -------------
