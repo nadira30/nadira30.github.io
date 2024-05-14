@@ -4,12 +4,6 @@ sidebar: false
 title: 'About'
 ---
 
-<figure align="left">
-  <img src="./assets/images/nadira.JPG"
-  width= "200"
-  height = "200" />
-</figure>
-
 Short Bio
 ---------
 Hi, my name is Nadira. I am a 2nd year PhD student in Robotics at Georgia Tech 🐝 . I previously graduated with a bachelor in Engineering Physics and minors in Computer Science and Mathematics from the University of Central Arkansas 🐻.
