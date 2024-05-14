@@ -25,6 +25,17 @@ As part of my undergraduate senior design project, my team and I participated in
 We design an automous ground vehicle capacle of navigating 4 main points using a convolution neural network and the Donkey Car open source API. 
 My main task was to work on improving and training the neural network for better results and design and update the web page. 
 
+### Industry project
+During my Co-Op at Molex LLC, I propose the project: Demonstrate how an electric guitar works by using a tone wheel generator; as part of a project between the Musuem of Discovery and Molex to introduce Sixth graders to Science. 
+<center>
+  <img src="../../assets/articles/tone_wheel/tone_wheel.jpg"
+  width= "300"
+  height = "300" />
+  <img src="../../assets/articles/tone_wheel/me_explaining.png"
+  width= "300"
+  height = "300" />
+</center>
+
 ### Microclimate Envorionment 
 As part of a microcontroller class at the University of Central Arkansas, my group and I designed a system capable of controling the temperature and moisture of a microenvironment(incubator) for growing lizzard eggs.
 The system is powered by a raspberry pi. My team and I designed the circuits using the knowledge gain over the course and test our prototype. 
