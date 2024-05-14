@@ -21,10 +21,14 @@ As part of the Machine Learning Algorithm, I took in the Spring 2024 term, my te
 Refer to the following [webpage](https://nadira30.github.io/7641-Group-Project/) for more information. 
 
 ### Senior design page
-As part of my undergraduate senior design project, my team and I participated in the National Robotics Challenge and the Arkansas Space Grant Consortium project. 
+As part of my undergraduate senior design project, my team and I participated in the National Robotics Challenge and the Arkansas Space Grant Consortium(ASGC) project. 
 We design an automous ground vehicle capacle of navigating 4 main points using a convolution neural network and the Donkey Car open source API. 
 My main task was to work on improving and training the neural network for better results and design and update the web page. 
-Please refer to the following [page](https://github.com/willward20/WHAM) for more information. 
+
+ <video 
+      controls autoplay muted>
+        <source src="../../assets/articles/SD/wham_win.mp4" type="video/mp4">
+  </video>
 
 ### Industry project
 During my Co-Op at Molex LLC, I propose the project: Demonstrate how an electric guitar works by using a tone wheel generator; as part of a project between the Musuem of Discovery and Molex to introduce Sixth graders to Science. 
