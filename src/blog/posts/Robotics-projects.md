@@ -27,14 +27,9 @@ My main task was to work on improving and training the neural network for better
 
 ### Industry project
 During my Co-Op at Molex LLC, I propose the project: Demonstrate how an electric guitar works by using a tone wheel generator; as part of a project between the Musuem of Discovery and Molex to introduce Sixth graders to Science. 
-<center>
-  <img src="../../assets/articles/tone_wheel/tone_wheel.jpg"
-  width= "300"
-  height = "300" />
-  <img src="../../assets/articles/tone_wheel/me_explaining.png"
-  width= "300"
-  height = "300" />
-</center>
+
+<img src="../../assets/articles/tone_wheel/tone_wheel.jpg" alt="Tone Wheel Generator build with Coworkers" width="95" height="84" /> 
+<img src="../../assets/articles/tone_wheel/me_explaining.png" alt="Me presenting to Sixth Grader" width="95" height="84" style="float:left"/> 
 
 ### Microclimate Envorionment 
 As part of a microcontroller class at the University of Central Arkansas, my group and I designed a system capable of controling the temperature and moisture of a microenvironment(incubator) for growing lizzard eggs.
