@@ -34,8 +34,8 @@ My main task was to work on improving and training the neural network for better
 During my Co-Op at Molex LLC, I propose the project: Demonstrate how an electric guitar works by using a tone wheel generator; as part of a project between the Musuem of Discovery and Molex to introduce Sixth graders to Science. 
 
 <div style="display: flex;">
-    <img src="../../assets/articles/tone_wheel/tone_wheel.jpg" alt="Tone Wheel Generator build with Coworkers" width="300" height="400" />
-    <img src="../../assets/articles/tone_wheel/me_explaining.png" width="300" height="400"/>
+    <img src="../../assets/articles/tone_wheel/tone_wheel.jpg" title='Tone Wheel Generator build with Coworkers' width="300" height="400" />
+    <img src="../../assets/articles/tone_wheel/me_explaining.png" title='Me explaining to a sixth grader' width="300" height="400"/>
 </div>
 
 
