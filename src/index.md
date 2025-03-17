@@ -30,7 +30,7 @@ features:
 ---
 
 <div style="text-align: center">
-  <img src="/assets/images/nadira.JPG"; alt="Nadira's profile picture" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+  <img src="/assets/images/nadira.jpeg"; alt="Nadira's profile picture" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
 </div>
 
 <div class="projects-section">
