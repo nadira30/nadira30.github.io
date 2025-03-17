@@ -30,13 +30,13 @@ export default defineConfig({
         vue: 'i-[carbon/logo-vue]',
       },
     },
-    logo: '/assets/images/nadira.JPG',
+    logo: '',
     search: {
       provider: 'local',
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      // { text: 'Home', link: '/' },
       {
         text: 'Blog',
         items: [

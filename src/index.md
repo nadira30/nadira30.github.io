@@ -5,29 +5,328 @@ title: About Me
 titleTemplate: VitePress Blog Theme
 
 hero:
-  name: 
-  #  text: Hello, welcome to my site.
-  tagline: Hi, my name is Nadira. I am a 2nd year PhD student in Robotics at Georgia Tech 🐝. I previously graduated with a bachelor in Engineering Physics and minors in Computer Science and Mathematics from the University of Central Arkansas 🐻. 
-  actions:
-    - theme: alt
-      text: More
-      link: /about
-    - theme: brand
-      text: blog
-      link: /blog
+  name: Nadira Mahamane
+  image:
+    src: /assets/images/nadira.JPG
+    alt: Nadira's profile picture
+    style: "border-radius: 50%; overflow: hidden;"
+  tagline: Hi, I'm a 2nd year PhD student in Robotics at Georgia Tech 🐝. I previously graduated with a bachelor in Engineering Physics and minors in Computer Science and Mathematics from the University of Central Arkansas (UCA) 🐻.
 
-#features:
-#  - icon: 📝
-#    title: Focus on Your Content
-#    details: Effortlessly create beautiful blog and documentation sites with just markdown.
-#  - icon: <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><g fill="none"><path fill="url(#a)" d="m29.884 6.146-13.142 23.5a.714.714 0 0 1-1.244.005L2.096 6.148a.714.714 0 0 1 .746-1.057l13.156 2.352a.714.714 0 0 0 .253 0l12.881-2.348a.714.714 0 0 1 .752 1.05z"/><path fill="url(#b)" d="M22.264 2.007 12.54 3.912a.357.357 0 0 0-.288.33l-.598 10.104a.357.357 0 0 0 .437.369l2.707-.625a.357.357 0 0 1 .43.42l-.804 3.939a.357.357 0 0 0 .454.413l1.672-.508a.357.357 0 0 1 .454.414l-1.279 6.187c-.08.387.435.598.65.267l.143-.222 7.925-15.815a.357.357 0 0 0-.387-.51l-2.787.537a.357.357 0 0 1-.41-.45l1.818-6.306a.357.357 0 0 0-.412-.45z"/><defs><linearGradient id="a" x1="6" x2="235" y1="33" y2="344" gradientTransform="translate(1.34 1.894) scale(.07142)" gradientUnits="userSpaceOnUse"><stop stop-color="#41D1FF"/><stop offset="1" stop-color="#BD34FE"/></linearGradient><linearGradient id="b" x1="194.651" x2="236.076" y1="8.818" y2="292.989" gradientTransform="translate(1.34 1.894) scale(.07142)" gradientUnits="userSpaceOnUse"><stop stop-color="#FFEA83"/><stop offset=".083" stop-color="#FFDD35"/><stop offset="1" stop-color="#FFA800"/></linearGradient></defs></g></svg>
-#    title: Extends VitePress
-#    details: Enjoy all the features VitePress provides and blog functionality.
-#  - icon: <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><path fill="#41b883" d="M24.4 3.925H30l-14 24.15L2 3.925h10.71l3.29 5.6 3.22-5.6Z"/><path fill="#41b883" d="m2 3.925 14 24.15 14-24.15h-5.6L16 18.415 7.53 3.925Z"/><path fill="#35495e" d="M7.53 3.925 16 18.485l8.4-14.56h-5.18L16 9.525l-3.29-5.6Z"/></svg>
-#    title: Customize with Vue
-#    details: Use Vue syntax and components directly in markdown, or build custom themes with Vue.
-#  - icon: 🚀
-#    title: Ship Fast Sites
-#    details: Fast initial load with static HTML, fast post-load navigation with client-side routing.
+  # actions:
+  #   - theme: brand
+  #     text: Blog
+  #     link: /blog
+
+features:
+  - title: Research Interests
+    details: My area of interest has always been related to intelligent systems. Particularly how they can be integrated in smart homes and heathcare to improve people’s daily lives in their environment. I am currently a student researcher in the <a class="text-blue-300 hover:text-blue-400" href="https://rail.gatech.edu/" target="_blank" rel="noopener noreferrer">RAIL lab</a>  under Dr. Sonia Chernova where I investigate smart medication systems for older adults with Mild cognitive Impairment living in smart homes. our main goal for this research is for intelligent systems (Robots and conversatonal agents) to be able to determine the right/opportune timing to initiate conversation or tell the older adult to take their medication.
+
+  - title: Hobbies
+    details: My hobbies are part of me and keep me grounded, active, and motivated. I am an outdoor person therefore love to hike, run to connect with mother nature. I used to play Basket ball and still pratice when I get time or connects with basketball enthousiasts. My nomadic self always enjoy a great vacation where I get to discover new culture, discover the rich cuisine and understand human kind. I recently discovered Zouk Dance and Rock Climbing thanks to my fellow labmates and I have enjoyed steaming the stress and fatigue of grad school through those activities. 
+  
+  - title: Organizations 
+    details: I am currently a member of the Robotics Graduate Student Organization (RoboGrads) and the African Graduate Students Connect (AGSC) at Georgia Tech.<br><br>Previously I have been:<br><ul><li>Treasurer of the Robotics Club at UCA</li><li>Vice President of the Girls Who Code Loop at UCA</li><li>President of the Society of Physics Students at UCA</li><li>President of the National Society of Collegiate Students at UCA</li></ul>
+
+
 ---
+
+<div class="projects-section">
+  <h1 class="section-title">Current Projects</h1>
+
+  <div class="projects-container">
+    <div class="project-card">
+      <h3>Smart Medication Reminder for older Adults with MCI</h3>
+      <p>We propose a system that integrates a robotic conversational assistant with smart home technologies to deliver timely medication reminders based on the user's location within the home. The main findings highlight the development of a room occupancy model using data from smart homes to predict user presence and optimize reminder timing.</p>
+      <span class="skill-pill">Human Robot Interation</span>
+      <!-- <a href="/projects/robot-navigation">Learn more →</a> -->
+    </div>
+    <div class="project-card">
+      <h3>Evaluation of User Acceptance of an Active Perception Robots in Smart Home Systems</h3>
+      <p>This project investigates the potential of an active perceptive mobile robot to enhance Human activity recognition in smart homes by addressing the limitations related to the ambiguity of motion sensor data reading.
+      </p>
+      <br>
+      <span class="skill-pill">Human Robot Interation</span>
+      <!-- <a href="/projects/human-robot">Learn more →</a> -->
+    </div>
+  </div>
+</div>
+<div class="skills-section">
+  <h1 class="section-title">Technical Skills</h1>
+  
+  <div class="skills-container">
+    <div class="skill-category">
+      <div class="skill-icon">💻</div>
+      <h3>Programming Languages</h3>
+      <div class="skill-pills">
+        <span class="skill-pill">Python</span>
+        <span class="skill-pill">Java</span>
+        <span class="skill-pill">C++</span>
+      </div>
+    </div>
+    <div class="skill-category">
+      <div class="skill-icon">🧠</div>
+      <h3>ML/MD Framework</h3>
+      <div class="skill-pills">
+        <span class="skill-pill">PyTorch</span>
+        <span class="skill-pill">Keras</span>
+      </div>
+    </div>
+    <div class="skill-category">
+      <div class="skill-icon">🤖</div>
+      <h3>Robotics</h3>
+      <div class="skill-pills">
+        <span class="skill-pill">ROS2</span>
+        <span class="skill-pill">RVIZ</span>
+        <span class="skill-pill">Gazebo</span>
+      </div>
+    </div>
+    <div class="skill-category">
+      <div class="skill-icon">📊</div>
+      <h3>Data Analysis</h3>
+      <div class="skill-pills">
+        <span class="skill-pill">Pandas</span>
+        <span class="skill-pill">Scikit-learn</span>
+        <span class="skill-pill">OpenCV</span>
+        <span class="skill-pill">NumPy</span>
+        <span class="skill-pill">Matplotlib</span>
+      </div>
+    </div>
+    <div class="skill-category">
+      <div class="skill-icon">🔌</div>
+      <h3>Microcontrollers</h3>
+      <div class="skill-pills">
+        <span class="skill-pill">Raspberry Pi</span>
+        <span class="skill-pill">Arduino</span>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="connect-section">
+  <h1 class="section-title">Let's Connect</h1>
+  
+  <div class="social-container">
+    <p>Feel free to follow me on social media:</p>
+    <div class="social-links">
+      <a href="https://www.linkedin.com/in/nadira-m/" class="social-link">
+        <div class="social-icon linkedin">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6M2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg>
+        </div>
+        <span>Nadira Mahamane</span>
+      </a>
+      <a href="https://twitter.com/Nadira_mahamane" class="social-link">
+        <div class="social-icon twitter">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2"/></svg>
+        </div>
+        <span>@Nadira_Mahamane</span>
+      </a>
+    </div>
+  </div>
+</div>
+          
+
+
+<style>
+:root {
+  --custom-color: rgb(138,43,226);
+  --custom-color-light: rgb(230, 202, 181);
+  --custom-color-dark: rgb(190, 152, 121);
+  --section-spacing: 80px;
+}
+
+/* Override feature titles with more specific selector */
+.VPFeature .title,
+.VPFeatures .title,
+.vp-features-item .title,
+.VPFeatures .item .title,
+.VPHome .VPFeatures .title {
+  color: var(--custom-color) !important;
+}
+
+/* Common section styling */
+.projects-section,
+.skills-section,
+.connect-section {
+  max-width: 1152px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.projects-section,
+.skills-section,
+.connect-section {
+  margin-top: var(--section-spacing);
+}
+
+/* Unified section title styling */
+.section-title {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.25;
+  text-align: center;
+  margin-bottom: 32px;
+  background: linear-gradient(to right, var(--custom-color-dark), var(--custom-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: var(--custom-color); /* Fallback for browsers that don't support gradient text */
+}
+
+.projects-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.project-card {
+  background-color: var(--vp-c-bg-soft);
+  border-radius: 8px;
+  padding: 20px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  height: 100%;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: var(--custom-color);
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 10px;
+  color: var(--custom-color);
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+}
+
+/* Skills Section Styling */
+.skills-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 24px;
+}
+
+.skill-category {
+  background-color: var(--vp-c-bg-soft);
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.skill-category:hover {
+  transform: translateY(-5px);
+}
+
+.skill-icon {
+  font-size: 32px;
+  margin-bottom: 12px;
+}
+
+.skill-category h3 {
+  margin: 0 0 16px;
+  color: var(--custom-color);
+  font-size: 18px;
+}
+
+.skill-pills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.skill-pill {
+  background-color: var(--custom-color-light);
+  color: var(--vp-c-bg);
+  font-size: 14px;
+  padding: 4px 12px;
+  border-radius: 16px;
+  display: inline-block;
+}
+
+/* Connect Section Styling */
+.connect-section {
+  margin-bottom: var(--section-spacing);
+}
+
+.social-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.social-container p {
+  margin-bottom: 24px;
+}
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.social-link {
+  display: flex;
+  align-items: center;
+  padding: 12px 20px;
+  background-color: var(--vp-c-bg-soft);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--vp-c-text-1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.social-link:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 12px;
+}
+
+.social-icon.twitter {
+  background-color: #1DA1F2;
+  color: white;
+}
+
+.social-icon.linkedin {
+  background-color: #0077B5;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .section-title {
+    font-size: 32px;
+  }
+  
+  .projects-container, 
+  .skills-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .social-links {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+</style>
+
 <VPBArchives />

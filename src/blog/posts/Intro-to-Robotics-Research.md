@@ -25,6 +25,6 @@ Overall our robot performed great. However at some corners due to shading, it wa
 Here is a video of our robot during the final examination. 
 
  <video 
-      controls autoplay muted>
-        <source src="../../assets/articles/SD/wham_win.mp4" type="video/mp4">
+      width="300" height="100" controls autoplay muted>
+        <source src="../../assets/articles/Intro-to-Robotics-Research/maze.mp4" type="video/mp4">
   </video>
