@@ -26,11 +26,11 @@ features:
   
   - title: Organizations 
     details: I am currently a member of the Robotics Graduate Student Organization (RoboGrads) and the African Graduate Students Connect (AGSC) at Georgia Tech. Previously I have been Treasurer of the Robotics Club at UCA, Vice President of the Girls Who Code Loop at UCA, President of the Society of Physics Students at UCA, and President of the National Society of Collegiate Students at UCA.
-    
+
 ---
 
 <div style="text-align: center">
-  <img src="./assets/images/nadira.JPG"; alt="Nadira's profile picture" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+  <img src="/assets/images/nadira.JPG"; alt="Nadira's profile picture" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
 </div>
 
 <div class="projects-section">
