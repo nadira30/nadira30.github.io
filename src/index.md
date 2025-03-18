@@ -6,12 +6,10 @@ titleTemplate: VitePress Blog Theme
 
 hero:
   name: Nadira Mahamane
-  # image:
-
-  image: '/assets/images/nadira.jpeg'
-  # <div style="text-align: center"> <img src="/assets/images/nadira.jpeg"; alt="Nadira's profile picture" style="border-radius: 50%; width:200px;height: 200px; object-fit: cover;"> </div>
-  alt: Nadira's profile picture
-  style: "border-radius: 50%; overflow: hidden;"
+  image:
+    src: '/assets/images/nadira.jpeg'
+    alt: Nadira's profile picture
+    style: "border-radius: 50%; overflow: hidden;"
   tagline: Hi, I'm a 2nd year PhD student in Robotics at Georgia Tech 🐝. I previously graduated with a bachelor in Engineering Physics and minors in Computer Science and Mathematics from the University of Central Arkansas (UCA) 🐻.
 
   # actions:
