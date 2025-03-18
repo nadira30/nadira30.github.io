@@ -8,8 +8,10 @@ hero:
   name: Nadira Mahamane
   # image:
 
+  image: '/assets/images/nadira.jpeg'
+  # <div style="text-align: center"> <img src="/assets/images/nadira.jpeg"; alt="Nadira's profile picture" style="border-radius: 50%; width:200px;height: 200px; object-fit: cover;"> </div>
   #   alt: Nadira's profile picture
-  #   style: "border-radius: 50%; overflow: hidden;"
+  #   style: "border-radius: 50%; overflow: hidden;"/assets/images/nadira.jpeg
   tagline: Hi, I'm a 2nd year PhD student in Robotics at Georgia Tech 🐝. I previously graduated with a bachelor in Engineering Physics and minors in Computer Science and Mathematics from the University of Central Arkansas (UCA) 🐻.
 
   # actions:
@@ -28,10 +30,6 @@ features:
     details: I am currently a member of the Robotics Graduate Student Organization (RoboGrads) and the African Graduate Students Connect (AGSC) at Georgia Tech. Previously I have been Treasurer of the Robotics Club at UCA, Vice President of the Girls Who Code Loop at UCA, President of the Society of Physics Students at UCA, and President of the National Society of Collegiate Students at UCA.
 
 ---
-
-<div style="text-align: center">
-  <img src="/assets/images/nadira.jpeg"; alt="Nadira's profile picture" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
-</div>
 
 <div class="projects-section">
   <h1 class="section-title">Current Projects</h1>
@@ -78,7 +76,7 @@ features:
       <div class="skill-icon">🤖</div>
       <h3>Robotics</h3>
       <div class="skill-pills">
-        <span class="skill-pill">ROS2</span>
+        <span class="skill-pill">ROS</span>
         <span class="skill-pill">RVIZ</span>
         <span class="skill-pill">Gazebo</span>
       </div>
