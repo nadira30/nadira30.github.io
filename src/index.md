@@ -25,7 +25,7 @@ features:
     details: My hobbies are part of me and keep me grounded, active, and motivated. I am an outdoor person therefore love to hike, run to connect with mother nature. I used to play Basket ball and still pratice when I get time or connects with basketball enthousiasts. My nomadic self always enjoy a great vacation where I get to discover new culture, discover the rich cuisine and understand human kind. I recently discovered Zouk Dance and Rock Climbing thanks to my fellow labmates and I have enjoyed steaming the stress and fatigue of grad school through those activities. 
   
   - title: Organizations 
-    details: I am currently a member of the Robotics Graduate Student Organization (RoboGrads) and the African Graduate Students Connect (AGSC) at Georgia Tech. Previously I have been Treasurer of the Robotics Club at UCA, Vice President of the Girls Who Code Loop at UCA, President of the Society of Physics Students at UCA, and President of the National Society of Collegiate Students at UCA.
+    details: I am currently a member of the Robotics Graduate Student Organization (RoboGrads) and the African Graduate Students Connect (AGSC) at Georgia Tech Previously I have been Treasurer of the Robotics Club at UCA, Vice President of the Girls Who Code Loop at UCA, President of the Society of Physics Students at UCA, and President of the National Society of Collegiate Students at UCA
 
 ---
 
@@ -44,7 +44,11 @@ features:
       <p>This project investigates the potential of an active perceptive mobile robot to enhance Human activity recognition in smart homes by addressing the limitations related to the ambiguity of motion sensor data reading.
       </p>
       <br>
-      <span class="skill-pill">Human Robot Interation</span>
+      <div class="skill-pills">
+        <span class="skill-pill">Human Robot Interation</span>
+        <span class="skill-pill">Navigation</span>
+        <span class="skill-pill">Object Detection</span>
+      </div>
       <!-- <a href="/projects/human-robot">Learn more →</a> -->
     </div>
   </div>
