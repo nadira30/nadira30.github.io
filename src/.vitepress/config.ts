@@ -14,6 +14,13 @@ export default defineConfig({
   },
   head: [
     ['link', { rel: 'icon', href: '/assets/images/nadira.JPG' }]
+    ['script', { async: true, src: 'https://googletagmanager.com' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-TNFPZ95KL6');
+    `]
   ],
   themeConfig: {
     blog: {
