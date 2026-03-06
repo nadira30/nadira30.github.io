@@ -14,7 +14,7 @@ export default defineConfig({
   },
   head: [
     ['link', { rel: 'icon', href: '/assets/images/nadira.JPG' }],
-    ['script', { async: true, src: 'https://googletagmanager.com' }],
+    ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-TNFPZ95KL6' }],
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
